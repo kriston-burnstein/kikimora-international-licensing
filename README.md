@@ -14,11 +14,9 @@ Made with [MUI](https://mui.com/) components, [React](https://reactjs.org/), and
 
 Features Description
 
-- Add features
-- NextJS and server side rendering
+- Animated sections on scroll
 - Dark and light mode
 - Image lazy loading
-- Animated sections on scroll
 - Fully responsive on all modern browsers
 
 ## Quick start
