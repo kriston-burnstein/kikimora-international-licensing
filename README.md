@@ -22,6 +22,7 @@ Features Description
 
 ## Quick start
 
+- Ensure correct Node version: `nvm use` (requires [NVM](https://github.com/nvm-sh/nvm) and uses Node version located in the `.nvmrc` file)
 - Install dependencies: `npm install`
 - Start the server: `npm run dev`
 - Build on production: `npm run build`
