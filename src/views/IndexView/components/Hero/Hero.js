@@ -97,7 +97,6 @@ const Hero = () => {
       >
         <Box
           component={'img'}
-          loading="lazy"
           height={1}
           width={1}
           src={'https://res.cloudinary.com/dogooderdev/image/upload/v1692296921/Otherworldly/2_qq5nl1.jpg'}
