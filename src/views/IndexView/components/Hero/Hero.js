@@ -97,7 +97,7 @@ const Hero = () => {
       >
         <Box
           component={'img'}
-          height={1}
+          height={'auto'}
           width={1}
           src={'https://res.cloudinary.com/dogooderdev/image/upload/v1692296921/Otherworldly/2_qq5nl1.jpg'}
           alt="Red Rose Living Art Interactive Statue Performer"
