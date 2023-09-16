@@ -70,15 +70,18 @@ const Hero = () => {
                 textDecoration: 'none',
               }}>
               <Box
-                component={Button}
-                variant="outlined"
-                color="primary"
-                size="large"
                 marginTop={{ xs: 2, sm: 0 }}
                 marginLeft={{ sm: 2 }}
-                fullWidth={isMd ? false : true}
+                width={{ xs: '100%', md: 'auto' }}
               >
-                Learn more
+                <Button
+                  variant="outlined"
+                  color="primary"
+                  size="large"
+                  fullWidth={isMd ? false : true}
+                >
+                  Learn more
+                </Button>
               </Box>
             </Link>
           </Box>
