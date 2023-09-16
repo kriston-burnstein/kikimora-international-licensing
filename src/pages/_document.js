@@ -39,7 +39,7 @@ export default class MyDocument extends Document {
           />
           <meta
             property="og:url"
-            content="" //todo: website url
+            content="https://kikimora-licensing.vercel.app/"
           />
           <link rel="preconnect" href="https://fonts.gstatic.com" />
           <link
