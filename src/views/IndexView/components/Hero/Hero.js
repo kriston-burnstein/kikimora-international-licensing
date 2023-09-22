@@ -44,7 +44,7 @@ const Hero = () => {
           </Box>
           <Box marginBottom={3}>
             <Typography variant="h6" component="p" color="text.secondary">
-              Kikmora invites event producers to explore our exclusive Luxury Living Art Licensable Collection and learn how to elevate your events with our premier program.
+              Kikimora invites event producers to explore our exclusive Luxury Living Art Licensable Collection and learn how to elevate your events with our premier program.
             </Typography>
           </Box>
           <Box
